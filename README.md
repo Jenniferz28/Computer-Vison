@@ -5,3 +5,6 @@ Use the mask to find all the stars (regardless of color) in a flag image and dra
 + Flag image
 ![us_flag_color](https://user-images.githubusercontent.com/25689659/34470918-eb03baf6-ef09-11e7-822d-efb73e9aa595.png)
 
+'''diff
++ Environment: Python 3.6
+'''
